@@ -1,0 +1,5 @@
+ETL project files
+step-1 extract the data from gcs
+step-2 clean the data and transform it using pyspark or sql
+step-3 load in the datawarehouse
+step-4 validate it 
