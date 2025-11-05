@@ -1,0 +1,4 @@
+Test case for etl process
+extraction
+transformation
+load
