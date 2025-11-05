@@ -1,0 +1,8 @@
+step-3 load the data to bq
+
+export data option (
+    uri= gstuil url
+    source_fomat=CSV
+    overwrite=True
+    header=True
+)

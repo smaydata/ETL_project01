@@ -1,0 +1,4 @@
+step -1 extract data from gcs
+
+bq load --source_format=CSV --autodetect --replace project_id:dataset.tablename gs://gutil_uri
+

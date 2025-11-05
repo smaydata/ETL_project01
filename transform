@@ -1,0 +1,3 @@
+select colum1, column2, column3
+from table name
+where condition1 = 'value1'
